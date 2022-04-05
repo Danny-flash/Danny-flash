@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Danny-flash
 - 👀 I’m interested in ... front-end dev
-- 🌱 I’m currently learning ... React
+- Top skills are html, css, javascript, React, sass, wordpress
+- 🌱 React Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach.... danielmide10@gmail.com
 
