@@ -5,6 +5,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach.... danielmide10@gmail.com
 
-[[Typing SVG](https://readme-typing-svg.demolab.com/Hello I+am+Danny+the+Flash)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+Welcome+to+My+Speed+Force;Cheers)](https://git.io/typing-svg)
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e67757259316f347a3038304a666f797a772f67697068792e676966](https://user-images.githubusercontent.com/84744061/213994252-3b4473ca-8fdf-4f8d-b866-83791bc68f62.gif)
