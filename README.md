@@ -1,5 +1,5 @@
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+Am+Danny_Flash+Nice+To+Meet+You;)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+Welcome+to+My+Speed+Force, hehe;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+Am+Danny_Flash+Nice+To+Meet+You+ + ;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+Welcome+to+My+Speed+Force+hehe;)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @Danny-flash
 - 👀 I’m interested in ... front-end dev
