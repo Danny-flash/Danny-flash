@@ -18,7 +18,7 @@ Aiming to leverage my abilities to successfully fill the Frontend Developer
 role at your company using the tools and technologies listed above. 
 
 
--📫 How to reach.... Emai;danielmide10@gmail.com
+<h5>📫 How to reach.... Email: danielmide10@gmail.com</h5>
 
 
 
